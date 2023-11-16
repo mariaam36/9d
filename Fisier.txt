@@ -1,1 +1,2 @@
 acesta este primul fisier versionat.
+acesta este continutul celui de al doilea commit.
